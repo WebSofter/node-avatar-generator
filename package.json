@@ -1,0 +1,14 @@
+{
+  "name": "node-avatar-generator",
+  "version": "1.0.0",
+  "description": "Native nodejs abstract avatar generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "websofter",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
